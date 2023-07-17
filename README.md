@@ -13,6 +13,7 @@ I created this application both to serve as a portfolio and also to display a pa
   - [Credits](#credits)
   - [License](#license)
   - [Features](#features)
+  - [Images](#images)
 
 ## Installation
 
@@ -30,3 +31,8 @@ MIT
 ## Features
 
 Internal links via a navbar, external links to applications I have created.
+
+## Images
+
+![Application image 1](./Assets/images/readmeimage1.png)
+![Application image 2](./Assets/images/readmeimage2.png)
